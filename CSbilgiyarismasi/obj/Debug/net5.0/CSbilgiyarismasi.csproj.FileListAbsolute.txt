@@ -1,0 +1,16 @@
+C:\Users\halid\source\repos\CSbilgiyarismasi\bin\Debug\net5.0\CSbilgiyarismasi.exe
+C:\Users\halid\source\repos\CSbilgiyarismasi\bin\Debug\net5.0\CSbilgiyarismasi.deps.json
+C:\Users\halid\source\repos\CSbilgiyarismasi\bin\Debug\net5.0\CSbilgiyarismasi.runtimeconfig.json
+C:\Users\halid\source\repos\CSbilgiyarismasi\bin\Debug\net5.0\CSbilgiyarismasi.runtimeconfig.dev.json
+C:\Users\halid\source\repos\CSbilgiyarismasi\bin\Debug\net5.0\CSbilgiyarismasi.dll
+C:\Users\halid\source\repos\CSbilgiyarismasi\bin\Debug\net5.0\ref\CSbilgiyarismasi.dll
+C:\Users\halid\source\repos\CSbilgiyarismasi\bin\Debug\net5.0\CSbilgiyarismasi.pdb
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.csproj.AssemblyReference.cache
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.AssemblyInfoInputs.cache
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.AssemblyInfo.cs
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.dll
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\ref\CSbilgiyarismasi.dll
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.pdb
+C:\Users\halid\source\repos\CSbilgiyarismasi\obj\Debug\net5.0\CSbilgiyarismasi.genruntimeconfig.cache
